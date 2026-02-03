@@ -1,3 +1,9 @@
-#Personal Landing Page
+# Web App GAS - Session 1
+Demo Web App:
+https://script.google.com/macros/s/AKfycbynqr7HB-yOvpBaQfLja5MiAyTKDMFSYMGONmmOguA/dev
+## Tech Stack
+- Google Apps Script
+- HTML
 
-Project pertama dalam workshop web portofolio.
+## Deskripsi
+Web App pertama menggunakan Google Apps Script
